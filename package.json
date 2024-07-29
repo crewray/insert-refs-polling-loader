@@ -1,6 +1,6 @@
 {
   "name": "insert-refs-polling-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Webpack loader to handle this.$refs usage in Vue components",
   "main": "lib/index.js",
   "scripts": {
