@@ -1,4 +1,4 @@
-# My Webpack Loader
+# insert-refs-polling-loader
 
 A Webpack loader to handle `this.$refs` usage in Vue components.
 
@@ -15,8 +15,7 @@ module.exports = {
       {
         test: /\.vue$/,
         use: [
-          'vue-loader',
-          'my-webpack-loader'
+          'insert-refs-polling-loader'
         ]
       }
     ]
