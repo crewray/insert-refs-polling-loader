@@ -1,6 +1,7 @@
 # insert-refs-polling-loader
 
-A Webpack loader to handle `this.$refs` usage in Vue components.
+小程序分包异步化获取不到$refs解决方案
+
 
 ## Installation
 
